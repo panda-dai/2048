@@ -1,3 +1,4 @@
+# 2048
 To run the code, just get into the source directory and run
 
 SYNOPSIS
